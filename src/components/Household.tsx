@@ -38,7 +38,7 @@ export const Household = () => {
       <Text fontSize="6xl" fontWeight="bold">
         Mdm Amanda Bay
       </Text>
-      <Text fontSize="large" fontWeight="bold" marginBottom="16">
+      <Text fontSize="large" fontWeight="bold" marginBottom="10">
         Blk 123 Ang Mo Kio Ave 1, #01-123, S817263
       </Text>
       <HouseholdSupport FoodRationInfo={FoodRationInfoData} />

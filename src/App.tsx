@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Container padding="8">
+      <Container padding="8" maxW="container.lg">
         <Household />
       </Container>
     </div>
